@@ -98,7 +98,7 @@
 }
 
 .win_status{
-    height: 60px;
+    min-height: 60px;
     min-width: 20%;
     background-color: #9BB8CD;
     border: 1px solid black;
